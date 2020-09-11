@@ -24,5 +24,5 @@ data?
      Python
      Machine learning techniques
      Data visualization.
-You will also need to have software installed to run and execute a Jupyter Notebook or you could work on a cloud platform like google colab just like i have done.     
+You will also need to have software installed to run and execute a Jupyter Notebook or you could work on a cloud platform like google colab just like i have done.   ##  NOTE:-For geospatial analysis please download the notebook and run that's because github doesn't run javascript code when uploading notebooks.  
       
